@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import { Statistics } from './Feedback/Statistic/Statistic';
-import { FeedbackOptions } from './FeedbackOptions';
+import { Statistics } from './Statistic/Statistic/Statistic';
+import { FeedbackOptions } from './FeedbackOpt/FeedbackOptions';
 import { Notification } from './Notification';
 import { Section } from './Section';
 
